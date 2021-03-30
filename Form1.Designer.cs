@@ -40,6 +40,7 @@ namespace p_clase
             // btnMostrar
             // 
             this.btnMostrar.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.btnMostrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMostrar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btnMostrar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btnMostrar.Location = new System.Drawing.Point(126, 271);
