@@ -19,7 +19,30 @@ namespace p_clase
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            textUsuario.Text = "Ingrese nombre de usuario";
+
+
         }
+
+        private void btnMostrar_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(textNombre.Text + " " + textApellido);
+        }
+
+        private void agregarPersona_Click(object sender, EventArgs e)
+        {
+            string nombreCompleto = "";
+            nombreCompleto = textNombre.Text + " " + textApellido.Text;
+            textPersonas.Items.Add(nombreCompleto);
+
+            MessageBox.Show("persona agregada con exito");
+
+
+        }
+        private void LimpiarCampos()
+        {
+            textNombre.Text = "";
+            textApellido.Text = "";
+        }
+
     }
 }
