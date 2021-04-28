@@ -5,5 +5,5 @@
 - [ ] Cuarta entrega 
 - [ ] Quinta entrega
 - [ ] Sexta entrega 
-- [ ] Septima entrega
+- [ ] Séptima entrega
 - [ ] Octava entrega
