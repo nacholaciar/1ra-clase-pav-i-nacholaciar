@@ -1,9 +1,11 @@
 ### PAV GitHub
 
 - [x] Primera entrega
-- [ ] Segunda entrega
-- [ ] Cuarta entrega 
-- [ ] Quinta entrega
-- [ ] Sexta entrega 
-- [ ] Séptima entrega
-- [ ] Octava entrega
+- [x] Segunda entrega
+- [x] Cuarta entrega 
+- [x] Quinta entrega
+- [x] Sexta entrega 
+- [x] Séptima entrega
+- [x] Octava entrega
+- [x] parcial
+- [x] tp final
